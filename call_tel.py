@@ -1,0 +1,9 @@
+def price(x,y):
+    if x==1:
+        return 343.15*y
+    elif x==2:
+        return 381.188*y
+    elif x==3:
+        return 473.13*y
+    elif x==4:
+        return 485.11*y
